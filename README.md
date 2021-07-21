@@ -1,0 +1,5 @@
+- 👋 Hola! Soy @Cristhian-Tapiero
+- 👀 Estoy interesado en la programación y el aprendizaje, me encanta todo lo relacionado con el mundo de la tecnologia y similares 
+- 🌱 Actualmente estoy estudiando MySQL, MongoDB, PHP y Java
+- 💞️ Estoy buscando colaborar en proyectos como Junior para fortalecer mis habilidades tecnicas ya que concidero tener buenas habilidades blandas para el trabajo en equipo
+- 📫 Contactos: cristapi56@gmail.com ó cristapi56@outlook.es, telefono: +57 3153884361
